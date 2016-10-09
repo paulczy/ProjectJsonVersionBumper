@@ -1,1 +1,15 @@
-﻿{"version":"0.0.0.0","buildOptions":{"emitEntryPoint":true},"frameworks":{"net452":{"frameworkAssemblies":{"System.Web.Extensions":"4.0.0.0"}}}}
+{
+  "version": "1.0.0.0",
+  
+  "buildOptions": { 
+    "emitEntryPoint": true },
+
+  "frameworks": {
+    "net452": {
+      "frameworkAssemblies": {
+        "System.Web.Extensions": "4.0.0.0"
+
+      } 
+    }
+  }
+}

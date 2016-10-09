@@ -5,7 +5,10 @@ Quick util to parse the project.json file, find the version attribute and update
 Inputs:
 
  -v or --version: version to update in project.json (defaults to 0.0.0.0)
+ 
  -i or --input: path to project.json (default to current folder if not supplied)
+ 
  -h or --help: shows help
+ 
  
  

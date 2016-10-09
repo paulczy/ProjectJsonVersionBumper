@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pjvb": {
+      "commandName": "Project",
+      "commandLineArgs": "--version=1.1.1.1"
+    }
+  }
+}

@@ -10,5 +10,5 @@ Inputs:
  
  -h or --help: shows help
  
- 
+ *Required .NET 4.5.2 or later*
  
